@@ -1,3 +1,12 @@
+
+This fork of fonttable exists as a lazy proof of concept of the feature request in https://github.com/hackerb9/fonttable/issues/2
+
+I've not coded it as an option. Maybe I will one day, and then PR upstream. 
+
+The rest of this README is the original. 
+
+----
+
 <img align="right" src="README.md.d/fonttable.gif" title="Example of fonttable running in `xterm -fa DroidSansMono -fd DroidSansFallback`"
 alt="Scrolling CJK glyphs">
 
