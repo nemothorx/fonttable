@@ -3,7 +3,7 @@ This fork of fonttable exists as a lazy proof of concept of the feature request 
 
 I've not coded it as an option. Maybe I will one day, and then PR upstream. 
 
-The rest of this README is the original. 
+The rest of this README is the original, and thus images do not represent the output of this fork. 
 
 ----
 
