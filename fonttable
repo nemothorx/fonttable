@@ -191,7 +191,8 @@ printvisible() {
     # If anything gets printed, then a newline is added to the end.
 
     awk  -F';'  '$3 !~ /C|M|Z/ { 
-    	 	    printf ("%c", strtonum("0x" $1)); 
+                    printf ("%c\t%s\t%s\n", strtonum("0x" $1), $1, $2);
+
 		    gotone=1;
 		};
     	 	END {if (gotone) print "";}'
